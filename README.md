@@ -1,4 +1,3 @@
-![2](https://github.com/user-attachments/assets/83fe8043-6ba5-42ce-b11d-27546a93d98f)# Ex.07 Restaurant Website
 ## Date: 28-10-2024
 
 ## AIM:
