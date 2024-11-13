@@ -399,10 +399,8 @@ footer {
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-10-28 154420.png>)
-![alt text](<Screenshot 2024-10-28 154427.png>)
-![alt text](<Screenshot 2024-10-28 154432.png>)
-![alt text](<Screenshot 2024-10-28 154440.png>)
+![3](https://github.com/user-attachments/assets/a92ae8ea-9d63-45dc-b4c4-c90cd879c142)
+
 
 
 ## RESULT:
